@@ -17,7 +17,7 @@ Git Setup ~ 30 minutes
 5. save the files in a "snapshot" using `git commit -m 'My first git commit'
 6. Create a Git account on github.com and create a repository
 7. Get the *URL* of your Git repository from the website
-8. Back in the command line, type `git push *URL* master -u` to push your new commmit up to git
+8. Back in the command line, type `git push *URL* master -u to push your new commmit up to git
 
 Google any of these things if I didn't explain it with enough detail or something doesn't work
 
